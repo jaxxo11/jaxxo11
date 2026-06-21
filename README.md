@@ -1,5 +1,5 @@
 ### ello 
-**I'm JX** 
+**I'm Jaxxo** 
 
 - 🔭 I’m currently working on DepthSMP
 - 🌱 I’m currently learning Python
